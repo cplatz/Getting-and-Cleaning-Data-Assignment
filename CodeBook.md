@@ -1,4 +1,4 @@
-# Introduction
+# Code Book Introduction
 
 This is a code book contains information to correspond to code found in the run_analysis.R file.  The following will describe variables found in the data set and how the data was manipulated using R Programming.  This project was completed based on requirements provided by Coursera Getting and Cleaning Data courses offered from Johns Hopkins.    
 
